@@ -1,0 +1,20 @@
+[
+    {
+        "id":0,
+        "titulo":"Componer el diseño en Adobe XD",
+        "descripcion":"Se realizaron cambios por parte del cliente",
+        "estado":true
+    },
+    {
+        "id":1,
+        "titulo":"Detallar diseño en adobe XD ",
+        "descripcion":"Dar estilos mas reales a las interfacez",
+        "estado":false
+    },
+    {
+        "id":2,
+        "titulo":"Empezar a programar en React.JS",
+        "descripcion":"programa todos los componentes en alto nivel",
+        "estado":true
+    }
+]

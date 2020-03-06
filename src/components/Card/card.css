@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    background-color: red;
+    width: 500px;
+    justify-content: center;
+}
+ img{
+     height: 150px;
+     width: 150px;
+ }
+
+ .contenedor{
+
+     border: red solid;
+ }
